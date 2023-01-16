@@ -1,0 +1,9 @@
+:root{
+    ---text: hsl(243, 87%, 12%);
+    ---today: hsl(238, 22%, 44%);
+    ---brightblue: hsl(224, 93%, 58%);
+    ---menuTransparente: hsla(0, 0%, 100%, 0.295);
+    ---link: hsl(170, 45%, 43%);
+    ---inputs: hsl(240, 75%, 98%);
+    ---bg-color: hsl(0, 0%, 75%);
+}

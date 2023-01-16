@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    border: none;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.6rem;
+}
+
+img{
+    display: block;
+    max-width: 100%;
+}
+
+html{
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+
+button{
+    cursor: pointer;
+}
